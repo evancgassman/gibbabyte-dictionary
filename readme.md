@@ -7,6 +7,8 @@ GUDPAI is a free-to-access online dictionary database consisting of multiple lan
 ```
 This API key is intentionally provided in this repository. This key was issued by Gibbabyte for use by the general public. This key contains limited features and not full access to the API. If you would like full access, then please check out https://utilities.gibbabyte.us
 ## Install
+#### Prerequisites 
+<a href="https://github.com/evancgassman/gibbabyte-utilities">gibbabyte-utilities</a>
 ```
 npm install gibbabyte-dictionary
 ```
